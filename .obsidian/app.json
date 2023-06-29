@@ -1,0 +1,48 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "base",
+  "attachmentFolderPath": "Files",
+  "tabSize": 4,
+  "vimMode": false,
+  "newLinkFormat": "shortest",
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ],
+  "defaultViewMode": "source",
+  "spellcheckDictionary": [
+    "полученнным",
+    "эндпоинты",
+    "ывфывфыв",
+    "просадочка",
+    "экселе",
+    "Хулиномика",
+    "тупанул",
+    "Чатфилд",
+    "Михай",
+    "бензодиапезинов",
+    "Конфузионные",
+    "обьекта",
+    "рестартануть",
+    "зп",
+    "проболелся",
+    "армейку"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true
+}
