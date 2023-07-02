@@ -6,5 +6,5 @@
   "saveAudioFile": true,
   "saveAudioFilePath": "Files",
   "createNewFileAfterRecording": true,
-  "createNewFileAfterRecordingPath": ""
+  "createNewFileAfterRecordingPath": "Files"
 }
