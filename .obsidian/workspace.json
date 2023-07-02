@@ -11,9 +11,12 @@
             "id": "dfc3528e116607c8",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Files/Recording 20230702183007.webm"
+                "file": "речь для диплома.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Recording 20230702183007.webm",
+                "file": "речь для диплома.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,8 +147,8 @@
   },
   "active": "dfc3528e116607c8",
   "lastOpenFiles": [
-    "речь для диплома.md",
     "Files/Recording 20230702183007.webm",
+    "речь для диплома.md",
     "SpeechToText",
     "Files/Recording 20230702182913.webm",
     "установка nvim.md",
