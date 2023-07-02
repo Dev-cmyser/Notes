@@ -141,11 +141,13 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "whisper:Open recording controls": false
     }
   },
   "active": "dfc3528e116607c8",
   "lastOpenFiles": [
+    "Files/Recording 20230702182913.webm",
     "установка nvim.md",
     "речь для диплома.md",
     "настройка сервера nginx gunicorn ssl-сертификат и домен!.md",
@@ -180,7 +182,6 @@
     "смена картинок только с помощью css.md",
     "Сны.md",
     "общий регламент place start.md",
-    "Daily/2023-W19.md",
     "Untitled.canvas",
     "Files/Recording 20230507181025.webm",
     "Files/Pasted image 20230501174211.png"
