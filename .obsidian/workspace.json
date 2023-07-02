@@ -11,8 +11,13 @@
             "id": "dfc3528e116607c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-Март.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2023-Март.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +146,9 @@
   },
   "active": "dfc3528e116607c8",
   "lastOpenFiles": [
+    "Daily/2020-Июнь.md",
+    "Daily/2023-Март.md",
+    "Daily/2023-07-31.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
@@ -181,8 +190,6 @@
     "Daily/2023-05-22.md",
     "Daily/2023-05-23.md",
     "смена картинок только с помощью css.md",
-    "Сны.md",
-    "общий регламент place start.md",
     "Untitled.canvas",
     "Files/Pasted image 20230501174211.png"
   ]
