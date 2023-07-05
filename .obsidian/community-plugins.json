@@ -1,5 +1,6 @@
 [
   "obsidian-languagetool-plugin",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-version-history-diff"
 ]
