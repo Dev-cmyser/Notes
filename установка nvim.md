@@ -1,10 +1,12 @@
-1. устанавливаем rigrep
-2. скачиваем app.image с оф репозитория, и добавляем там в пути
+1. устанавливаем rigrep, make "sudo pacman -S make"
+2. скачиваем app.image с оф репозитория, и добавляем там в пути(то есть распаковываем и добавляем в path, там ниже команды)
 3. ставим vim-plug для nvim из оф репозитория
-4. копируем конфиг ниже в файл init.vim в ~/.congig/nvim/
-5. :so %
-6. :PlugInstall
-7. если что то не работает то ты дурачок) - я описал самый простой путь
+4. mkdir ~/.congig/nvim/
+5. mkdir ~/.congig/nvim/plugged
+6. копируем конфиг ниже в файл init.vim в  "nvim ~/.congig/nvim/init.vim
+7. :so %
+8. :PlugInstall
+9. если что то не работает то ты дурачок) - я описал самый простой путь
 ```java
 set mouse=a  " enable mouse
 set encoding=utf-8

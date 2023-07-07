@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/07-07-2023.md",
+                "file": "установка nvim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/07-07-2023.md",
+                "file": "установка nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +146,9 @@
   },
   "active": "dfc3528e116607c8",
   "lastOpenFiles": [
-    "Daily/04-07-2023.md",
-    "Daily/07-07-2023.md",
     "Daily/06-07-2023.md",
+    "Daily/07-07-2023.md",
+    "Daily/04-07-2023.md",
     "Daily/05-07-2023.md",
     "Daily/2023-07-04.md",
     "Daily/2020-Июнь.md",
