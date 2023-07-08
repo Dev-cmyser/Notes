@@ -1,6 +1,6 @@
 {
   "folder": "/",
   "format": "DD-MM-YYYY",
-  "template": "",
+  "template": "Templates/шаблон-Daily",
   "autorun": false
 }

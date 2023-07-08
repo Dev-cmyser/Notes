@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/шаблон-Daily.md",
+                "file": "12-07-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/шаблон-Daily.md",
+                "file": "12-07-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,13 @@
   },
   "active": "39b5c38e0560bd92",
   "lastOpenFiles": [
-    "2023-05-08.md",
     "Templates/шаблон-Daily.md",
+    "12-07-2023.md",
+    "11-07-2023.md",
+    "10-07-2023.md",
+    "09-07-2023.md",
+    "02-07-2023.md",
+    "2023-05-08.md",
     "Templates/шаблон-общий.md",
     "Templates/шаблон-programming.md",
     "06-07-2023.md",
@@ -167,11 +172,6 @@
     "2023-05-22.md",
     "2023-05-21.md",
     "2023-05-09.md",
-    "2023-05-07.md",
-    "Daily/04-07-2023.md",
-    "Daily/05-07-2023.md",
-    "07-07-2023.md",
-    "08-07-2023.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
