@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-07-2023.md",
+                "file": "шаги дофаминовой перезагрузки.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12-07-2023.md",
+                "file": "шаги дофаминовой перезагрузки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,9 @@
   },
   "active": "39b5c38e0560bd92",
   "lastOpenFiles": [
-    "Templates/шаблон-Daily.md",
+    "дофаминовая перезагрузка.md",
     "12-07-2023.md",
+    "Templates/шаблон-Daily.md",
     "11-07-2023.md",
     "10-07-2023.md",
     "09-07-2023.md",
@@ -171,7 +172,6 @@
     "2023-05-23.md",
     "2023-05-22.md",
     "2023-05-21.md",
-    "2023-05-09.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
