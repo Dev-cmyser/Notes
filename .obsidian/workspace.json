@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26cf06a591cb3e43",
+        "id": "1451730b3dacbe44",
         "type": "tabs",
         "children": [
           {
-            "id": "39b5c38e0560bd92",
+            "id": "4cbb775e592a7020",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,10 +144,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "39b5c38e0560bd92",
+  "active": "4cbb775e592a7020",
   "lastOpenFiles": [
-    "23-07-2023.md",
     "24-07-2023.md",
+    "23-07-2023.md",
     "Работа и баги.md",
     "nvim remote work.md",
     "Templates/шаблон-общий.md",
