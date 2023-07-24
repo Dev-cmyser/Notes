@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23-07-2023.md",
+                "file": "24-07-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "23-07-2023.md",
+                "file": "24-07-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,8 @@
   },
   "active": "39b5c38e0560bd92",
   "lastOpenFiles": [
+    "23-07-2023.md",
+    "24-07-2023.md",
     "Работа и баги.md",
     "nvim remote work.md",
     "Templates/шаблон-общий.md",
@@ -153,7 +155,6 @@
     "Templates/шаблон-Daily.md",
     "2023-W29.md",
     "Daily/2023-W28.md",
-    "23-07-2023.md",
     "Daily",
     "2023-W27.md",
     "шаги дофаминовой перезагрузки.md",
@@ -172,7 +173,6 @@
     "Daily/2023-W26.md",
     "2023-W19.md",
     "2023-W18.md",
-    "Daily/2023-07-31.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
