@@ -1,12 +1,15 @@
-1. устанавливаем rigrep, make "sudo pacman -S make", и pyright
-2. скачиваем app.image с оф репозитория, и добавляем там в пути(то есть распаковываем и добавляем в path, там ниже команды)
-3. ставим vim-plug для nvim из оф репозитория
-4. mkdir ~/.config/nvim/
-5. mkdir ~/.config/nvim/plugged
-6. копируем конфиг ниже в файл init.vim в  "nvim ~/.config/nvim/init.vim
-7. :so %
-8. :PlugInstall
-9. если что то не работает то ты дурачок) - я описал самый простой путь
+1. устанавливаем rigrep, make "sudo pacman -S make", и 
+2. sudo apt install nodejs 
+3. npm install pyright
+4. 
+5. скачиваем app.image с оф репозитория, и добавляем там в пути(то есть распаковываем и добавляем в path, там ниже команды)
+6. ставим vim-plug для nvim из оф репозитория
+7. mkdir ~/.config/nvim/
+8. mkdir ~/.config/nvim/plugged
+9. копируем конфиг ниже в файл init.vim в  "nvim ~/.config/nvim/init.vim
+10. :so %
+11. :PlugInstall
+12. если что то не работает то ты дурачок) - я описал самый простой путь
 ```java
 set mouse=a  " enable mouse
 set encoding=utf-8
