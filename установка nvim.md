@@ -1,4 +1,4 @@
-``1. устанавливаем rigrep, make "sudo pacman -S make"
+1. устанавливаем rigrep, make "sudo pacman -S make", и pyright
 2. скачиваем app.image с оф репозитория, и добавляем там в пути(то есть распаковываем и добавляем в path, там ниже команды)
 3. ставим vim-plug для nvim из оф репозитория
 4. mkdir ~/.config/nvim/
