@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26-07-2023.md",
+                "file": "27-07-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26-07-2023.md",
+                "file": "27-07-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,9 @@
   },
   "active": "4cbb775e592a7020",
   "lastOpenFiles": [
-    "25-07-2023.md",
     "26-07-2023.md",
+    "27-07-2023.md",
+    "25-07-2023.md",
     "24-07-2023.md",
     "23-07-2023.md",
     "Работа и баги.md",
@@ -172,7 +173,6 @@
     "2023-Март.md",
     "2023-Апрель.md",
     "2023-W20.md",
-    "Daily/2023-W26.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
