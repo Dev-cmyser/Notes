@@ -9,6 +9,8 @@
 10. :so %
 11. :PlugInstall
 12. если что то не работает то ты дурачок) - я описал самый простой путь
+
+
 ```java
 set mouse=a  " enable mouse
 set encoding=utf-8
