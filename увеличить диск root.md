@@ -19,3 +19,6 @@ ls -l /dev/disk/by-uuid/
 но помоему и в gparted можно
 
 А можно просто в консоли выполнить команду blkid и увидеть UUID разделов.
+
+
+https://redos.red-soft.ru/base/other-soft/other-other/davinci-resolve/#in
