@@ -1,7 +1,6 @@
 1. устанавливаем rigrep, make "sudo pacman -S make", и 
-2. sudo apt install nodejs 
-3. npm install pyright
-4. 
+2. sudo apt install nodejs npm
+3. npm install pyright -g
 5. скачиваем app.image с оф репозитория, и добавляем там в пути(то есть распаковываем и добавляем в path, там ниже команды)
 6. ставим vim-plug для nvim из оф репозитория
 7. mkdir ~/.config/nvim/
@@ -392,7 +391,7 @@ require('telescope').load_extension('fzf')
 EOF
 
 " Fast component creating for React app
-command CreateComponent :terminal '/Users/alexeygoloburdin/code/lms/frontend/createcomponent.py'
+
 
 " White colors for LSP messages in code
 set termguicolors
