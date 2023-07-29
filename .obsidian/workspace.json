@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28-07-2023.md",
+                "file": "29-07-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "28-07-2023.md",
+                "file": "29-07-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,9 @@
   },
   "active": "4cbb775e592a7020",
   "lastOpenFiles": [
-    "увеличить диск root.md",
     "28-07-2023.md",
+    "29-07-2023.md",
+    "увеличить диск root.md",
     "установка nvim.md",
     "27-07-2023.md",
     "26-07-2023.md",
@@ -172,7 +173,6 @@
     "02-07-2023.md",
     "2023-05-08.md",
     "06-07-2023.md",
-    "Getting Things Done (GTD) метод.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
