@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31-07-2023.md",
+                "file": "01-08-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "57dc2066a7d544a1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31-07-2023.md",
+                "file": "01-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +144,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "57dc2066a7d544a1",
+  "active": "4cbb775e592a7020",
   "lastOpenFiles": [
-    "30-07-2023.md",
+    "can't change the input switching shortcut to alt+shift.md",
+    "01-08-2023.md",
     "31-07-2023.md",
+    "30-07-2023.md",
     "увеличить диск root.md",
     "29-07-2023.md",
     "28-07-2023.md",
@@ -182,8 +173,6 @@
     "12-07-2023.md",
     "11-07-2023.md",
     "10-07-2023.md",
-    "09-07-2023.md",
-    "02-07-2023.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
