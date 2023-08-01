@@ -9,10 +9,7 @@
   "newLinkFormat": "shortest",
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheckLanguages": [
-    "ru",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "defaultViewMode": "source",
   "spellcheckDictionary": [
     "полученнным",
