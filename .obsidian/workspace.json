@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-08-2023.md",
+                "file": "увеличить диск root.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-08-2023.md",
+                "file": "увеличить диск root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,8 @@
   },
   "active": "4cbb775e592a7020",
   "lastOpenFiles": [
-    "01-08-2023.md",
     "02-08-2023.md",
+    "01-08-2023.md",
     "conflict-files-obsidian-git.md",
     "31-07-2023.md",
     "can't change the input switching shortcut to alt+shift.md",
