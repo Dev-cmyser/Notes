@@ -1,6 +1,6 @@
-1. устанавливаем rigrep, make "sudo pacman -S make", и 
+1. устанавливаем ripgrep, make "sudo pacman -S make", и 
 2. sudo apt install nodejs npm
-3. npm install pyright -g
+3. sudo npm install pyright -g
 5. скачиваем app.image с оф репозитория, и добавляем там в пути(то есть распаковываем и добавляем в path, там ниже команды)
 6. ставим vim-plug для nvim из оф репозитория
 7. mkdir ~/.config/nvim/

@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "136e1e31d08b1de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-08-2023.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,11 +158,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4cbb775e592a7020",
+  "active": "136e1e31d08b1de2",
   "lastOpenFiles": [
-    "can't change the input switching shortcut to alt+shift.md",
-    "01-08-2023.md",
     "31-07-2023.md",
+    "01-08-2023.md",
+    "conflict-files-obsidian-git.md",
+    "can't change the input switching shortcut to alt+shift.md",
     "30-07-2023.md",
     "увеличить диск root.md",
     "29-07-2023.md",
@@ -172,7 +187,6 @@
     "дофаминовая перезагрузка.md",
     "12-07-2023.md",
     "11-07-2023.md",
-    "10-07-2023.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
