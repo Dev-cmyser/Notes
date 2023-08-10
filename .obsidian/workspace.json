@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-08-2023.md",
+                "file": "Frontend.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-08-2023.md",
+                "file": "Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,10 @@
   },
   "active": "4cbb775e592a7020",
   "lastOpenFiles": [
-    "установка nvim.md",
+    "git quick start and add repository.md",
+    "Files/Pasted image 20230810121329.png",
     "07-08-2023.md",
+    "установка nvim.md",
     "can't change the input switching shortcut to alt+shift.md",
     "06-08-2023.md",
     "04-08-2023.md",
@@ -170,9 +172,7 @@
     "Templates/шаблон-programming.md",
     "Templates/шаблон-Daily.md",
     "2023-W29.md",
-    "Daily/2023-W28.md",
     "Daily",
-    "2023-W27.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
@@ -191,7 +191,6 @@
     "Files/Pasted image 20230613154131.png",
     "Files/Pasted image 20230613153824.png",
     "Files/Pasted image 20230613153821.png",
-    "Untitled.canvas",
-    "Files/Pasted image 20230501174211.png"
+    "Untitled.canvas"
   ]
 }
