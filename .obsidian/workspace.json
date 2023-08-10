@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "disable caps lock.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "disable caps lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,9 @@
   },
   "active": "4cbb775e592a7020",
   "lastOpenFiles": [
-    "10-08-2023.md",
     "Kubernetes.md",
+    "disable caps lock.md",
+    "10-08-2023.md",
     "git quick start and add repository.md",
     "Backend or linux (git for example).md",
     "Frontend.md",
@@ -172,7 +173,6 @@
     "23-07-2023.md",
     "Работа и баги.md",
     "nvim remote work.md",
-    "Templates/шаблон-общий.md",
     "Daily",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
