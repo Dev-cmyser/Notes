@@ -1,4 +1,4 @@
-[[Frontend]]
+[[Backend or linux (git for example)]]
 
 ![[Pasted image 20230810121329.png]]echo "# user" >> README.md
 git init

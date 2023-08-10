@@ -5,7 +5,7 @@
   "newFileFolderPath": "base",
   "attachmentFolderPath": "Files",
   "tabSize": 4,
-  "vimMode": false,
+  "vimMode": true,
   "newLinkFormat": "shortest",
   "legacyEditor": false,
   "livePreview": true,
