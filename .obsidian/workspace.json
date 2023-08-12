@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-08-2023.md",
+                "file": "12-08-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-08-2023.md",
+                "file": "12-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,9 @@
   },
   "active": "4cbb775e592a7020",
   "lastOpenFiles": [
+    "Files/Pasted image 20230812225501.png",
+    "06-08-2023.md",
+    "12-08-2023.md",
     "git quick start and add repository.md",
     "disable caps lock.md",
     "Kubernetes.md",
@@ -154,7 +157,6 @@
     "10-08-2023.md",
     "07-08-2023.md",
     "can't change the input switching shortcut to alt+shift.md",
-    "06-08-2023.md",
     "04-08-2023.md",
     "03-08-2023.md",
     "02-08-2023.md",
@@ -171,8 +173,6 @@
     "25-07-2023.md",
     "24-07-2023.md",
     "23-07-2023.md",
-    "Работа и баги.md",
-    "nvim remote work.md",
     "Daily",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
