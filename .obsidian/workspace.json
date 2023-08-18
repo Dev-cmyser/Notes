@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17-08-2023.md",
+                "file": "2023-W33.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17-08-2023.md",
+                "file": "2023-W33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,9 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
-    "08-08-2023.md",
     "17-08-2023.md",
+    "2023-W33.md",
+    "08-08-2023.md",
     "16-08-2023.md",
     "15-08-2023.md",
     "conflict-files-obsidian-git.md",
@@ -174,7 +175,6 @@
     "03-08-2023.md",
     "02-08-2023.md",
     "01-08-2023.md",
-    "31-07-2023.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
