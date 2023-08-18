@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-08-2023.md",
+                "file": "git quick start and add repository.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18-08-2023.md",
+                "file": "git quick start and add repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,8 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
-    "2023-W33.md",
     "18-08-2023.md",
+    "2023-W33.md",
     "17-08-2023.md",
     "08-08-2023.md",
     "16-08-2023.md",
