@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22-08-2023.md",
+                "file": "can't change the input switching shortcut to alt+shift.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-08-2023.md",
+                "file": "can't change the input switching shortcut to alt+shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,8 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
-    "21-08-2023.md",
     "22-08-2023.md",
+    "21-08-2023.md",
     "git quick start and add repository.md",
     "20-08-2023.md",
     "19-08-2023.md",
