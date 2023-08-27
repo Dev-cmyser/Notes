@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "can't change the input switching shortcut to alt+shift.md",
+                "file": "27-08-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "can't change the input switching shortcut to alt+shift.md",
+                "file": "27-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +146,11 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
+    "can't change the input switching shortcut to alt+shift.md",
+    "27-08-2023.md",
     "nvim clipboard.md",
     "установка nvim.md",
     "22-08-2023.md",
-    "can't change the input switching shortcut to alt+shift.md",
     "21-08-2023.md",
     "git quick start and add repository.md",
     "20-08-2023.md",
@@ -173,7 +174,6 @@
     "disable caps lock.md",
     "Kubernetes.md",
     "10-08-2023.md",
-    "Backend or linux (git for example).md",
     "Files/Pasted image 20230810121329.png",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
