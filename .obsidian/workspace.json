@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "установка nvim.md",
+                "file": "nvim clipboard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "установка nvim.md",
+                "file": "nvim clipboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,8 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
+    "установка nvim.md",
+    "nvim clipboard.md",
     "22-08-2023.md",
     "can't change the input switching shortcut to alt+shift.md",
     "21-08-2023.md",
@@ -165,7 +167,6 @@
     "13-08-2023.md",
     "12-08-2023.md",
     "Графы.md",
-    "установка nvim.md",
     "как работает фильтр в js в декларативном стиле (никак).md",
     "Frontend.md",
     "11-08-2023.md",
@@ -174,7 +175,6 @@
     "10-08-2023.md",
     "Backend or linux (git for example).md",
     "Files/Pasted image 20230810121329.png",
-    "07-08-2023.md",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
     "Files/Recording 20221026114006.webm",
