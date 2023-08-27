@@ -2,13 +2,36 @@
 2. sudo apt install nodejs npm
 3. sudo npm install pyright -g
 5. скачиваем app.image с оф репозитория, и добавляем там в пути(то есть распаковываем и добавляем в path, там ниже команды)
-6. ставим vim-plug для nvim из оф репозитория
-7. mkdir ~/.config/nvim/
-8. mkdir ~/.config/nvim/plugged
-9. копируем конфиг ниже в файл init.vim в  "nvim ~/.config/nvim/init.vim
-10. :so %
-11. :PlugInstall
-12. если что то не работает то ты дурачок) - я описал самый простой путь
+6. ## Linux
+
+### [](https://github.com/neovim/neovim/wiki/Installing-Neovim#appimage-universal-linux-package)AppImage ("universal" Linux package)
+
+The [Releases](https://github.com/neovim/neovim/releases) page provides an [AppImage](https://appimage.org/) that runs on most Linux systems. No installation is needed, just download `nvim.appimage` and run it. (It might not work if your Linux distribution is more than 4 years old.)
+
+```
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
+chmod u+x nvim.appimage
+./nvim.appimage
+```
+
+If the `./nvim.appimage` command fails, try:
+
+```shell
+./nvim.appimage --appimage-extract
+./squashfs-root/AppRun --version
+
+# Optional: exposing nvim globally.
+sudo mv squashfs-root /
+sudo ln -s /squashfs-root/AppRun /usr/bin/nvim
+nvim
+```
+7. ставим vim-plug для nvim из оф репозитория
+8. mkdir ~/.config/nvim/
+9. mkdir ~/.config/nvim/plugged
+10. копируем конфиг ниже в файл init.vim в  "nvim ~/.config/nvim/init.vim
+11. :so %
+12. :PlugInstall
+13. если что то не работает то ты дурачок) - я описал самый простой путь
 
 
 ```java
