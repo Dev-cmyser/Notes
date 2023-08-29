@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28-08-2023.md",
+                "file": "установка nvim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "28-08-2023.md",
+                "file": "установка nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +146,10 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
-    "27-08-2023.md",
-    "28-08-2023.md",
-    "can't change the input switching shortcut to alt+shift.md",
     "nvim clipboard.md",
+    "28-08-2023.md",
+    "27-08-2023.md",
+    "can't change the input switching shortcut to alt+shift.md",
     "установка nvim.md",
     "22-08-2023.md",
     "21-08-2023.md",
