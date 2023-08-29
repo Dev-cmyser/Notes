@@ -113,7 +113,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "29-08-2023.md",
+=======
+                "file": "can't change the input switching shortcut to alt+shift.md",
+>>>>>>> 5ffa3cf3dbdc78ccbf589d139bfeb2cff1cbfacb
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,12 +150,18 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "28-08-2023.md",
     "29-08-2023.md",
     "27-08-2023.md",
+=======
+    "linux.md",
+>>>>>>> 5ffa3cf3dbdc78ccbf589d139bfeb2cff1cbfacb
     "can't change the input switching shortcut to alt+shift.md",
-    "nvim clipboard.md",
     "установка nvim.md",
+    "nvim clipboard.md",
+    "28-08-2023.md",
+    "27-08-2023.md",
     "22-08-2023.md",
     "21-08-2023.md",
     "git quick start and add repository.md",
