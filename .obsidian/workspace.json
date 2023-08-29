@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux.md",
+                "file": "can't change the input switching shortcut to alt+shift.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux.md",
+                "file": "can't change the input switching shortcut to alt+shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
+    "linux.md",
     "can't change the input switching shortcut to alt+shift.md",
     "установка nvim.md",
     "nvim clipboard.md",
@@ -173,7 +174,6 @@
     "Frontend.md",
     "11-08-2023.md",
     "disable caps lock.md",
-    "Kubernetes.md",
     "Files/Pasted image 20230810121329.png",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
