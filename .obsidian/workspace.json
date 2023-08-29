@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "установка nvim.md",
+                "file": "linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "установка nvim.md",
+                "file": "linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,11 +146,11 @@
   },
   "active": "fd9bf82a08f3fec1",
   "lastOpenFiles": [
+    "can't change the input switching shortcut to alt+shift.md",
+    "установка nvim.md",
     "nvim clipboard.md",
     "28-08-2023.md",
     "27-08-2023.md",
-    "can't change the input switching shortcut to alt+shift.md",
-    "установка nvim.md",
     "22-08-2023.md",
     "21-08-2023.md",
     "git quick start and add repository.md",
