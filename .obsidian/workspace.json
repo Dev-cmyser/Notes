@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c668985884eddba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "can't change the input switching shortcut to alt+shift.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,11 +158,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fd9bf82a08f3fec1",
+  "active": "1c668985884eddba",
   "lastOpenFiles": [
+    "can't change the input switching shortcut to alt+shift.md",
+    "conflict-files-obsidian-git.md",
+    "31-08-2023.md",
+    "30-08-2023.md",
     "29-08-2023.md",
     "linux.md",
-    "can't change the input switching shortcut to alt+shift.md",
     "установка nvim.md",
     "nvim clipboard.md",
     "28-08-2023.md",
@@ -164,7 +181,6 @@
     "08-08-2023.md",
     "16-08-2023.md",
     "15-08-2023.md",
-    "conflict-files-obsidian-git.md",
     "Files/Pasted image 20230812225501.png",
     "Daily/14-08-2023.md",
     "Daily",
@@ -172,8 +188,6 @@
     "12-08-2023.md",
     "Графы.md",
     "как работает фильтр в js в декларативном стиле (никак).md",
-    "Frontend.md",
-    "11-08-2023.md",
     "Files/Pasted image 20230810121329.png",
     "Files/Recording 20221026113920.webm",
     "Files/Recording 20221026113930.webm",
