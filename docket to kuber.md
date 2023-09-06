@@ -1,0 +1,6 @@
+[[Backend or linux (git for example)]]
+
+в папке с проектом 
+``` java
+docker build -t 85456789/gateway:2.0.1 .
+```
