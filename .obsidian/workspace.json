@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7267a6e5bd680880",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +155,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fd9bf82a08f3fec1",
+  "active": "7267a6e5bd680880",
   "lastOpenFiles": [
     "Files/Pasted image 20230905122426.png",
     "can't change the input switching shortcut to alt+shift.md",
