@@ -24,9 +24,12 @@
             "id": "7267a6e5bd680880",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "06-09-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-09-2023.md",
+                "file": "06-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +160,7 @@
   },
   "active": "7267a6e5bd680880",
   "lastOpenFiles": [
+    "06-09-2023.md",
     "Files/Pasted image 20230905122426.png",
     "can't change the input switching shortcut to alt+shift.md",
     "05-09-2023.md",
@@ -202,7 +206,6 @@
     "Files/Pasted image 20230613155110.png",
     "Files/Pasted image 20230613155059.png",
     "Files/Pasted image 20230613154131.png",
-    "Files/Pasted image 20230613153824.png",
     "Untitled.canvas"
   ]
 }
