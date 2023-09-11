@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "83e2f245e6cee66c",
+        "id": "b01446067387a812",
         "type": "tabs",
         "children": [
           {
-            "id": "480aa2cc1e67218d",
+            "id": "fd9bf82a08f3fec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31-08-2023.md",
+                "file": "05-09-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7267a6e5bd680880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11-09-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +81,7 @@
             }
           },
           {
-            "id": "eb15d92598de2a45",
+            "id": "46629816c0ae9566",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,28 +103,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dcbac99de3c599c",
+            "id": "bdbaf42d11108a66",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "e747431a09d50c9f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "31-08-2023.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
             }
           },
           {
@@ -123,12 +120,29 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "044f7d6a085e1cc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11-09-2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,29 +158,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "480aa2cc1e67218d",
+  "active": "7267a6e5bd680880",
   "lastOpenFiles": [
-    "docket to kuber.md",
+    "08-09-2023.md",
+    "11-09-2023.md",
     "Files/Pasted image 20230908143909.png",
     "Files/Pasted image 20230908143839.png",
     "Files/Pasted image 20230908122908.png",
     "Files/Pasted image 20230908105833.png",
-    "Files/Pasted image 20230905122426.png",
-    "08-09-2023.md",
     "07-09-2023.md",
     "06-09-2023.md",
+    "docket to kuber.md",
+    "Files/Pasted image 20230905122426.png",
+    "can't change the input switching shortcut to alt+shift.md",
     "05-09-2023.md",
-    "30-08-2023.md",
+    "conflict-files-obsidian-git.md",
     "31-08-2023.md",
-    "English/intensive lesson 2.md",
-    "English/lesson 3.md",
-    "Daily/2022-10-09.md",
-    "Daily/2022-10-07.md",
-    "Programming/дискретная задача об укладке рюкзака.md",
-    "Programming/алгоритм укладки рюкзака.md",
-    "рекурсия с кешированием.md",
-    "как лучше создавать массив для задачки.md",
-    "Programming/рекурсия и динамическое програмирование.md",
-    "Programming/сортировка слиянием.md"
+    "30-08-2023.md",
+    "29-08-2023.md",
+    "linux.md",
+    "установка nvim.md",
+    "nvim clipboard.md",
+    "28-08-2023.md",
+    "27-08-2023.md",
+    "22-08-2023.md",
+    "21-08-2023.md",
+    "git quick start and add repository.md",
+    "20-08-2023.md",
+    "19-08-2023.md",
+    "18-08-2023.md",
+    "2023-W33.md",
+    "17-08-2023.md",
+    "08-08-2023.md",
+    "16-08-2023.md",
+    "Files/Pasted image 20230812225501.png",
+    "Daily",
+    "Files/Pasted image 20230810121329.png",
+    "Files/Recording 20221026113920.webm",
+    "Files/Recording 20221026113930.webm",
+    "Files/Recording 20221026114006.webm",
+    "Files/Recording 20230507181025.webm",
+    "Files/Recording 20230702182913.webm",
+    "Files/Recording 20230702221957.webm",
+    "Files/Recording 20230702222024.webm",
+    "Files/Recording 20230702183007.webm",
+    "SpeechToText",
+    "Files/Pasted image 20230613155135.png",
+    "Files/Pasted image 20230613155113.png",
+    "Files/Pasted image 20230613155132.png",
+    "Untitled.canvas"
   ]
 }
