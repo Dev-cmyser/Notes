@@ -9,14 +9,6 @@
   ],
   "graph:open-local": [],
   "editor:delete-paragraph": [],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "2"
-    }
-  ],
   "editor:toggle-comments": [
     {
       "modifiers": [
@@ -48,6 +40,14 @@
         "Mod"
       ],
       "key": "-"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
     }
   ]
 }
