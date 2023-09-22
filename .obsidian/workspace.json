@@ -11,13 +11,8 @@
             "id": "480aa2cc1e67218d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31-08-2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +140,7 @@
   },
   "active": "480aa2cc1e67218d",
   "lastOpenFiles": [
+    "31-08-2023.md",
     "docket to kuber.md",
     "Files/Pasted image 20230908143909.png",
     "Files/Pasted image 20230908143839.png",
@@ -157,7 +152,6 @@
     "06-09-2023.md",
     "05-09-2023.md",
     "30-08-2023.md",
-    "31-08-2023.md",
     "English/intensive lesson 2.md",
     "English/lesson 3.md",
     "Daily/2022-10-09.md",
