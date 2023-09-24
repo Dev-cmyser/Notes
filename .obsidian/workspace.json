@@ -4,29 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "83e2f245e6cee66c",
+        "id": "7668891ae6a2e602",
         "type": "tabs",
         "children": [
           {
-            "id": "480aa2cc1e67218d",
+            "id": "6b53cd2b9df35415",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "da87a3ce3f941e47",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "24-09-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "24-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +154,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "da87a3ce3f941e47",
+  "active": "6b53cd2b9df35415",
   "lastOpenFiles": [
+    "24-09-2023.md",
     "conflict-files-obsidian-git.md",
     "11-09-2023.md",
     "31-08-2023.md",
