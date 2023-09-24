@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "da87a3ce3f941e47",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +128,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "6d2a8491797d64a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -138,7 +159,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "480aa2cc1e67218d",
+  "active": "da87a3ce3f941e47",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "11-09-2023.md",
