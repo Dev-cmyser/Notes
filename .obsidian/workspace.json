@@ -11,22 +11,16 @@
             "id": "480aa2cc1e67218d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "006873a13d700ae1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "01-08-2023.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +155,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "006873a13d700ae1",
+  "active": "480aa2cc1e67218d",
   "lastOpenFiles": [
     "English/intensive lesson 2.md",
     "English/lesson 3.md",
