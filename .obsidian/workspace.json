@@ -4,23 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "2b68f156e3f2d434",
+        "id": "e8dce97b6f1fb128",
         "type": "tabs",
         "children": [
           {
-            "id": "357248fdc9ad477b",
+            "id": "480aa2cc1e67218d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "006873a13d700ae1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "25-09-2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.4.13"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +73,7 @@
             }
           },
           {
-            "id": "eb15d92598de2a45",
+            "id": "af5833b529517941",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,20 +95,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dcbac99de3c599c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "e747431a09d50c9f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,28 +122,15 @@
             }
           },
           {
-            "id": "6d2a8491797d64a2",
+            "id": "7a97880906362165",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-<<<<<<< HEAD
-                "file": "25-09-2023.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-=======
-                "sortOrder": "frequency"
->>>>>>> f61a5b7b65885ba16b1ff25ab1807eeed763385a
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "4485e27ef9622f2b",
+            "id": "e6061c575228115a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -159,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,56 +160,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "357248fdc9ad477b",
+  "active": "006873a13d700ae1",
   "lastOpenFiles": [
-    "11-09-2023.md",
-    "25-09-2023.md",
-    "05-09-2023.md",
-    "08-09-2023.md",
-    "Files/Pasted image 20230908143909.png",
-    "Files/Pasted image 20230908143839.png",
-    "Files/Pasted image 20230908122908.png",
-    "Files/Pasted image 20230908105833.png",
-    "Files/Pasted image 20230905122426.png",
-    "08-09-2023.md",
-    "07-09-2023.md",
-    "06-09-2023.md",
-    "docket to kuber.md",
-    "Files/Pasted image 20230905122426.png",
-    "can't change the input switching shortcut to alt+shift.md",
-    "conflict-files-obsidian-git.md",
-    "31-08-2023.md",
-    "30-08-2023.md",
-    "29-08-2023.md",
-    "linux.md",
-    "установка nvim.md",
-    "nvim clipboard.md",
-    "28-08-2023.md",
-    "27-08-2023.md",
-    "22-08-2023.md",
-    "21-08-2023.md",
-    "git quick start and add repository.md",
-    "20-08-2023.md",
-    "19-08-2023.md",
-    "18-08-2023.md",
-    "2023-W33.md",
-    "17-08-2023.md",
-    "08-08-2023.md",
-    "Files/Pasted image 20230812225501.png",
-    "Daily",
-    "Files/Pasted image 20230810121329.png",
-    "Files/Recording 20221026113920.webm",
-    "Files/Recording 20221026113930.webm",
-    "Files/Recording 20221026114006.webm",
-    "Files/Recording 20230507181025.webm",
-    "Files/Recording 20230702182913.webm",
-    "Files/Recording 20230702221957.webm",
-    "Files/Recording 20230702222024.webm",
-    "Files/Recording 20230702183007.webm",
-    "SpeechToText",
-    "Files/Pasted image 20230613155135.png",
-    "Files/Pasted image 20230613155113.png",
-    "Files/Pasted image 20230613155132.png",
-    "Untitled.canvas"
+    "English/intensive lesson 2.md",
+    "English/lesson 3.md",
+    "Daily/2022-10-09.md",
+    "Daily/2022-10-07.md",
+    "Programming/дискретная задача об укладке рюкзака.md",
+    "Programming/алгоритм укладки рюкзака.md",
+    "рекурсия с кешированием.md",
+    "как лучше создавать массив для задачки.md",
+    "Programming/рекурсия и динамическое програмирование.md",
+    "Programming/сортировка слиянием.md"
   ]
 }
