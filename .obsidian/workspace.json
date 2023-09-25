@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "46629816c0ae9566",
+            "id": "eb15d92598de2a45",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,11 +89,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdbaf42d11108a66",
+            "id": "5dcbac99de3c599c",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "e747431a09d50c9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "24-09-2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
             }
           },
           {
@@ -108,11 +125,12 @@
             }
           },
           {
-            "id": "044f7d6a085e1cc1",
+            "id": "6d2a8491797d64a2",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "all-properties",
               "state": {
+<<<<<<< HEAD
                 "file": "25-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -121,6 +139,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+=======
+                "sortOrder": "frequency"
+>>>>>>> f61a5b7b65885ba16b1ff25ab1807eeed763385a
               }
             }
           },
@@ -138,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,6 +185,8 @@
     "Files/Pasted image 20230908143839.png",
     "Files/Pasted image 20230908122908.png",
     "Files/Pasted image 20230908105833.png",
+    "Files/Pasted image 20230905122426.png",
+    "08-09-2023.md",
     "07-09-2023.md",
     "06-09-2023.md",
     "docket to kuber.md",
