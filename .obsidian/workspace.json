@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c815f0ce860d302",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -154,7 +166,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b53cd2b9df35415",
+  "active": "3c815f0ce860d302",
   "lastOpenFiles": [
     "24-09-2023.md",
     "25-09-2023.md",
