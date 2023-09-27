@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "вопросы к компании на собеседовании.md",
+                "file": "27-09-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c815f0ce860d302",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "вопросы к компании на собеседовании.md",
+                "file": "27-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +155,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3c815f0ce860d302",
+  "active": "6b53cd2b9df35415",
   "lastOpenFiles": [
+    "вопросы к компании на собеседовании.md",
+    "27-09-2023.md",
     "24-09-2023.md",
     "25-09-2023.md",
     "conflict-files-obsidian-git.md",
