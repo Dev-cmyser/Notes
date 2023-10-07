@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "вопросы к компании на собеседовании.md",
+                "file": "07-10-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "вопросы к компании на собеседовании.md",
+                "file": "07-10-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +157,11 @@
   },
   "active": "6b53cd2b9df35415",
   "lastOpenFiles": [
+    "Files/Pasted image 20231007214814.png",
+    "вопросы к компании на собеседовании.md",
+    "07-10-2023.md",
     "задача ВЫВЕСТИ ВСЕ УНИКАЛЬНЫЕ user_id У КОТОРЫХ НЕТ КОШКИ.md",
     "sql.md",
-    "вопросы к компании на собеседовании.md",
     "01-10-2023.md",
     "tmux.md",
     "29-09-2023.md",
@@ -185,8 +187,6 @@
     "Daily/2022-10-09.md",
     "Daily/2022-10-07.md",
     "Programming/дискретная задача об укладке рюкзака.md",
-    "Programming/алгоритм укладки рюкзака.md",
-    "рекурсия с кешированием.md",
-    "как лучше создавать массив для задачки.md"
+    "Programming/алгоритм укладки рюкзака.md"
   ]
 }
