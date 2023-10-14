@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "бинарный поиск массива.md",
+                "file": "24-09-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "бинарный поиск массива.md",
+                "file": "24-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "6b53cd2b9df35415",
   "lastOpenFiles": [
+    "бинарный поиск массива.md",
     "вопросы к компании на собеседовании.md",
     "07-10-2023.md",
     "Files/Pasted image 20231007214814.png",
