@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-09-2023.md",
+                "file": "установка nvim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-09-2023.md",
+                "file": "установка nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,9 @@
   },
   "active": "6b53cd2b9df35415",
   "lastOpenFiles": [
+    "nvim clipboard.md",
+    "tmux.md",
+    "24-09-2023.md",
     "бинарный поиск массива.md",
     "вопросы к компании на собеседовании.md",
     "07-10-2023.md",
@@ -164,10 +167,8 @@
     "задача ВЫВЕСТИ ВСЕ УНИКАЛЬНЫЕ user_id У КОТОРЫХ НЕТ КОШКИ.md",
     "sql.md",
     "01-10-2023.md",
-    "tmux.md",
     "29-09-2023.md",
     "27-09-2023.md",
-    "24-09-2023.md",
     "25-09-2023.md",
     "conflict-files-obsidian-git.md",
     "11-09-2023.md",
@@ -187,7 +188,6 @@
     "English/lesson 3.md",
     "Daily/2022-10-09.md",
     "Daily/2022-10-07.md",
-    "Programming/дискретная задача об укладке рюкзака.md",
-    "Programming/алгоритм укладки рюкзака.md"
+    "Programming/дискретная задача об укладке рюкзака.md"
   ]
 }
