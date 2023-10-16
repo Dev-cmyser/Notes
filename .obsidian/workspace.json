@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "установка nvim.md",
+                "file": "zsh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "установка nvim.md",
+                "file": "zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,8 @@
   },
   "active": "6b53cd2b9df35415",
   "lastOpenFiles": [
+    "установка nvim.md",
+    "zsh.md",
     "nvim clipboard.md",
     "tmux.md",
     "24-09-2023.md",
@@ -186,8 +188,6 @@
     "30-08-2023.md",
     "English/intensive lesson 2.md",
     "English/lesson 3.md",
-    "Daily/2022-10-09.md",
-    "Daily/2022-10-07.md",
-    "Programming/дискретная задача об укладке рюкзака.md"
+    "Daily/2022-10-09.md"
   ]
 }
