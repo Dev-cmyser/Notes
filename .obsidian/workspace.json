@@ -24,9 +24,12 @@
             "id": "433416a228656e4a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "вопросы к компании на собеседовании.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-09-2023.md",
+                "file": "вопросы к компании на собеседовании.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
