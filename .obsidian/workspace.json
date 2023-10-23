@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "282de072a20d84c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "вопросы к компании на собеседовании.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,10 +182,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "433416a228656e4a",
+  "active": "282de072a20d84c4",
   "lastOpenFiles": [
-    "бинарный поиск массива.md",
     "вопросы к компании на собеседовании.md",
+    "conflict-files-obsidian-git.md",
+    "zsh.md",
+    "f keys fn How can I toggle the Fn (function) key?.md",
+    "Files/Pasted image 20231017100523.png",
+    "бинарный поиск массива.md",
     "07-10-2023.md",
     "Files/Pasted image 20231007214814.png",
     "задача ВЫВЕСТИ ВСЕ УНИКАЛЬНЫЕ user_id У КОТОРЫХ НЕТ КОШКИ.md",
@@ -183,7 +200,6 @@
     "27-09-2023.md",
     "24-09-2023.md",
     "25-09-2023.md",
-    "conflict-files-obsidian-git.md",
     "11-09-2023.md",
     "31-08-2023.md",
     "docket to kuber.md",
@@ -200,8 +216,6 @@
     "English/intensive lesson 2.md",
     "English/lesson 3.md",
     "Daily/2022-10-09.md",
-    "Daily/2022-10-07.md",
-    "Programming/дискретная задача об укладке рюкзака.md",
-    "Programming/алгоритм укладки рюкзака.md"
+    "Daily/2022-10-07.md"
   ]
 }
