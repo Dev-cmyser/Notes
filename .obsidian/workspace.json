@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new.md",
+                "file": "nvim remote work.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new.md",
+                "file": "nvim remote work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +157,8 @@
   },
   "active": "6b53cd2b9df35415",
   "lastOpenFiles": [
-    "nvim remote work.md",
     "new.md",
+    "nvim remote work.md",
     "установка nvim.md",
     "conflict-files-obsidian-git.md",
     "update chrome.md",
