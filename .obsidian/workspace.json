@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91949a79b18de903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "установка nvim.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,14 +169,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b53cd2b9df35415",
+  "active": "91949a79b18de903",
   "lastOpenFiles": [
+    "установка nvim.md",
+    "conflict-files-obsidian-git.md",
+    "update chrome.md",
     "f keys fn How can I toggle the Fn (function) key?.md",
     "Files/Pasted image 20231017100523.png",
     "tmux.md",
     "can't change the input switching shortcut to alt+shift.md",
     "zsh.md",
-    "установка nvim.md",
     "nvim clipboard.md",
     "24-09-2023.md",
     "бинарный поиск массива.md",
@@ -175,7 +191,6 @@
     "29-09-2023.md",
     "27-09-2023.md",
     "25-09-2023.md",
-    "conflict-files-obsidian-git.md",
     "11-09-2023.md",
     "31-08-2023.md",
     "docket to kuber.md",

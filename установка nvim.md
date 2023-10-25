@@ -1,4 +1,4 @@
-1. устанавливаем ripgrep, make "sudo pacman -S make", и 
+jjjjjjjjkwj1. устанавливаем ripgrep, make "sudo pacman -S make", и 
 2. sudo apt install nodejs npm
 3. sudo npm install pyright -g
 5. скачиваем app.image с оф репозитория, и добавляем там в пути(то есть распаковываем и добавляем в path, там ниже команды)
