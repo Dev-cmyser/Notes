@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "установка nvim.md",
+                "file": "new.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "установка nvim.md",
+                "file": "new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +157,10 @@
   },
   "active": "6b53cd2b9df35415",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "nvim remote work.md",
+    "new.md",
     "установка nvim.md",
+    "conflict-files-obsidian-git.md",
     "update chrome.md",
     "f keys fn How can I toggle the Fn (function) key?.md",
     "Files/Pasted image 20231017100523.png",
@@ -187,8 +189,6 @@
     "Files/Pasted image 20230905122426.png",
     "08-09-2023.md",
     "07-09-2023.md",
-    "06-09-2023.md",
-    "05-09-2023.md",
-    "30-08-2023.md"
+    "06-09-2023.md"
   ]
 }
