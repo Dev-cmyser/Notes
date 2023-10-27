@@ -6,7 +6,7 @@ Today I want to show my neovim configuration on lua
 This config is a fork from Purple school channel
 (link on base video in description)
 
-I start my way of neovim with other configuration from didjitalize channel 
+I start my way of neovim with  other configuration from didjitalize channel 
 
 That config was very hard for new users like me and it was a bad experience 
 
@@ -22,6 +22,7 @@ And The same problem was in Nvchad
 Because I on my own build until now
 
 I want to try Lunar Nvim and i'll do this in future
+And for this video I'm tried  Lunar build 
 
 
 
