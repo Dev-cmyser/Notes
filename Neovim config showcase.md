@@ -19,10 +19,20 @@ or Middle of file dont have a highlights if I was there after starting file and 
 
 And The same problem was in Nvchad 
 
-Because I on my own build until now
+Also I Cannot with Vue on Astro ( i installed vue language server but i have no higligts and i can't use go defenition)
+
+Base NvChad work nice with Vue but also like in astro nvchad had a problem with indexing middle in file 
+
 
 I want to try Lunar Nvim and i'll do this in future
-And for this video I'm tried  Lunar build 
+And for this video I'm tried  Lunar build just now)
+
+Feature from lunar - Very easy installing ang you don't need remove your last nvim build!
+But Lunar hard in settings, because It's different from astro and nvchad
+
+
+Because I on my own build until now
+
 
 
 
