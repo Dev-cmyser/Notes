@@ -40,6 +40,7 @@ My features :
 
 Introduction is finished, let's go to build!
 
+Instructions for installing are in git repository
 
 
 
