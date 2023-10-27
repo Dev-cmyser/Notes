@@ -15,6 +15,15 @@ and Awesome hotkeys
 
 I was on it about half a year but when I changed my job I fought a problem - big files has a very long time for indexation 
 
-or Middle of file dont have a highlights if I was there after starting file and then I should to go start file 
+or Middle of file dont have a highlights if I was there after starting file and then I should to go start file and go down very slowly
+
+And The same problem was in Nvchad 
+
+Because I on my own build until now
+
+I want to try Lunar Nvim and i'll do this in future
+
+
+
 
 
