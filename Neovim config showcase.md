@@ -8,4 +8,6 @@ This config is a fork from Purple school channel
 
 I start my way of neovim with other configuration from didjitalize channel 
 
-That config was very hard for new users like m
+That config was very hard for new users like me
+
+
