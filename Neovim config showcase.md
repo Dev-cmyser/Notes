@@ -31,12 +31,14 @@ Feature from lunar - Very easy installing ang you don't need remove your last nv
 But Lunar hard in settings, because It's different from astro and nvchad
 
 
-Because I on my own build until now
+Because I on my own build  until now
 
 My features :
 1. Really fast file indexing 
 2. Easy for editing (Especially for astrovim users)
-3. 
+3. Easy for new users in vim and easy hotkeys
+
+Introduction is finished, let's go to build!
 
 
 
