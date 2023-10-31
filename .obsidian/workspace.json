@@ -11,16 +11,20 @@
             "id": "fe3f7e55ea625678",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статья как выбрать метод изучения языка.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e0f9dfeeb66b207",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Статья как выбрать метод изучения языка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +158,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe3f7e55ea625678",
+  "active": "1e0f9dfeeb66b207",
   "lastOpenFiles": [
+    "Статья как выбрать метод изучения языка.md",
     "вопросы к компании на собеседовании.md",
     "настройка сервера nginx gunicorn ssl-сертификат и домен!.md",
     "Templates/шаблон-Daily.md",
     "Templates/шаблон-programming.md",
     "Templates/шаблон-общий.md",
     "Templates/Шаблон.md",
-    "Статья как выбрать метод изучения языка.md",
     "учим английский - алгоритм.md",
     "asyncio sleep.md",
     "Работа с сервером.md",
