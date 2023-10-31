@@ -1,2 +1,2 @@
-[[Backend or linux or git]]
+[[Backend]]
 git pull --rebase origin master

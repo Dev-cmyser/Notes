@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-21.md",
+                "file": "2023-W27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f463222defebe1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +163,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b53cd2b9df35415",
+  "active": "5f463222defebe1c",
   "lastOpenFiles": [
+    "2023-W27.md",
+    "Сны.md",
+    "disable caps lock.md",
+    "Backend.md",
+    "linux.md",
+    "увеличить диск root.md",
+    "asyncio sleep.md",
+    "2023-Апрель.md",
+    "2023-Март.md",
+    "2023-W33.md",
+    "2023-W29.md",
+    "2023-W20.md",
+    "2023-W19.md",
+    "2023-W18.md",
+    "2023-06-01.md",
+    "2023-05-24.md",
+    "2023-05-23.md",
+    "2023-05-22.md",
+    "2023-05-21.md",
     "2023-05-09.md",
     "2023-05-08.md",
     "2023-05-07.md",
@@ -164,25 +191,6 @@
     "2020-Июнь.md",
     "13-08-2023.md",
     "07-08-2023.md",
-    "12-08-2023.md",
-    "12-07-2023.md",
-    "11-09-2023.md",
-    "11-08-2023.md",
-    "11-07-2023.md",
-    "10-08-2023.md",
-    "10-07-2023.md",
-    "09-07-2023.md",
-    "08-09-2023.md",
-    "08-08-2023.md",
-    "08-07-2023.md",
-    "07-10-2023.md",
-    "07-09-2023.md",
-    "03-08-2023.md",
-    "02-08-2023.md",
-    "02-07-2023.md",
-    "01-10-2023.md",
-    "01-08-2023.md",
-    "07-07-2023.md",
     "Files/Pasted image 20231017100523.png",
     "Files/Pasted image 20231007214814.png",
     "Files/Pasted image 20230908143909.png",

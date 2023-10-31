@@ -1,4 +1,4 @@
-[[Backend or linux or git]]
+[[Backend]]
 
 в папке с проектом 
 ``` java

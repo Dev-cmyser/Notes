@@ -1,4 +1,4 @@
-[[Backend or linux or git]]
+[[Backend]]
 Для публикации создаем репозиторий в докерхаб codovstvo/namerepo
 
 Собираем докер образ docker build -t codovstvo/namerepo .
