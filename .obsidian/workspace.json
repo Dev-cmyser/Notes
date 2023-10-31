@@ -8,59 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b53cd2b9df35415",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5f463222defebe1c",
+            "id": "fe3f7e55ea625678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "настройка сервера nginx gunicorn ssl-сертификат и домен!.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "958f1064878bd08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа с сервером.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "749e4ccc4268dbe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "задача ВЫВЕСТИ ВСЕ УНИКАЛЬНЫЕ user_id У КОТОРЫХ НЕТ КОШКИ.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98019939221c216f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "can't change the input switching shortcut to alt+shift.md",
+                "file": "Статья как выбрать метод изучения языка.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Статья как выбрать метод изучения языка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,10 +155,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b53cd2b9df35415",
+  "active": "fe3f7e55ea625678",
   "lastOpenFiles": [
-    "asyncio sleep.md",
+    "вопросы к компании на собеседовании.md",
     "настройка сервера nginx gunicorn ssl-сертификат и домен!.md",
+    "Templates/шаблон-Daily.md",
+    "Templates/шаблон-programming.md",
+    "Templates/шаблон-общий.md",
+    "Templates/Шаблон.md",
+    "Статья как выбрать метод изучения языка.md",
+    "учим английский - алгоритм.md",
+    "asyncio sleep.md",
     "Работа с сервером.md",
     "задача ВЫВЕСТИ ВСЕ УНИКАЛЬНЫЕ user_id У КОТОРЫХ НЕТ КОШКИ.md",
     "can't change the input switching shortcut to alt+shift.md",
@@ -219,16 +180,9 @@
     "sql.md",
     "ирисик.md",
     "животные.md",
-    "учим английский - алгоритм.md",
     "Сны.md",
     "2023-W27.md",
     "disable caps lock.md",
-    "Backend.md",
-    "linux.md",
-    "увеличить диск root.md",
-    "2023-Апрель.md",
-    "2023-Март.md",
-    "2023-W33.md",
     "Files/Pasted image 20231017100523.png",
     "Files/Pasted image 20231007214814.png",
     "Files/Pasted image 20230908143909.png",
