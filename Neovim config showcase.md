@@ -43,7 +43,9 @@ My features :
 Introduction is finished, let's go to build!
 
 Instructions for installing are in git repository
-You just need clone my 
+You just need clone my repository in "nvim" folder 
+after just run "nvim"
+
 
 
 
