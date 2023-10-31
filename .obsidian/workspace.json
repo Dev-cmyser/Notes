@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "установка nvim.md",
+                "file": "tmux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "установка nvim.md",
+                "file": "tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,8 @@
   },
   "active": "1e0f9dfeeb66b207",
   "lastOpenFiles": [
+    "установка nvim.md",
+    "tmux.md",
     "Статья как выбрать метод изучения языка.md",
     "вопросы к компании на собеседовании.md",
     "настройка сервера nginx gunicorn ssl-сертификат и домен!.md",
@@ -182,10 +184,8 @@
     "Инфотекс Интернет Траст — hr.md",
     "Neovim config showcase.md",
     "nvim clipboard.md",
-    "установка nvim.md",
     "zsh.md",
     "как работать с обсидиан.md",
-    "tmux.md",
     "sql.md",
     "ирисик.md",
     "животные.md",
