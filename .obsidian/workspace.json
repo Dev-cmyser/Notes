@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41c8d4d3bf77ee21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim clipboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +176,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5f463222defebe1c",
+  "active": "41c8d4d3bf77ee21",
   "lastOpenFiles": [
+    "nvim clipboard.md",
     "установка nvim.md",
     "zsh.md",
     "как работать с обсидиан.md",
@@ -196,7 +204,6 @@
     "2023-06-01.md",
     "2023-05-24.md",
     "2023-05-23.md",
-    "2023-05-22.md",
     "Files/Pasted image 20231017100523.png",
     "Files/Pasted image 20231007214814.png",
     "Files/Pasted image 20230908143909.png",
