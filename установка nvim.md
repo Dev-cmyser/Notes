@@ -1,3 +1,4 @@
+[[linux]]
 1. устанавливаем ripgrep, make "sudo pacman -S make", и 
 2. sudo apt install nodejs npm
 3. sudo npm install pyright -g

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-W27.md",
+                "file": "asyncio sleep.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,8 +24,13 @@
             "id": "5f463222defebe1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "nvim clipboard.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -111,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nvim clipboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,13 +171,21 @@
   },
   "active": "5f463222defebe1c",
   "lastOpenFiles": [
-    "2023-W27.md",
+    "установка nvim.md",
+    "zsh.md",
+    "как работать с обсидиан.md",
+    "tmux.md",
+    "asyncio sleep.md",
+    "sql.md",
+    "ирисик.md",
+    "животные.md",
+    "учим английский - алгоритм.md",
     "Сны.md",
+    "2023-W27.md",
     "disable caps lock.md",
     "Backend.md",
     "linux.md",
     "увеличить диск root.md",
-    "asyncio sleep.md",
     "2023-Апрель.md",
     "2023-Март.md",
     "2023-W33.md",
@@ -183,14 +197,6 @@
     "2023-05-24.md",
     "2023-05-23.md",
     "2023-05-22.md",
-    "2023-05-21.md",
-    "2023-05-09.md",
-    "2023-05-08.md",
-    "2023-05-07.md",
-    "Как разбогатеть.md",
-    "2020-Июнь.md",
-    "13-08-2023.md",
-    "07-08-2023.md",
     "Files/Pasted image 20231017100523.png",
     "Files/Pasted image 20231007214814.png",
     "Files/Pasted image 20230908143909.png",
