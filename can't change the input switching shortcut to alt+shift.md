@@ -1,4 +1,4 @@
-Created at: 2023:08:01 20:14
+[[linux]]
 
 
 1. Set forward switch to Shift+Alt(left)
