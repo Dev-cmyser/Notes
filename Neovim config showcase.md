@@ -2,7 +2,9 @@
 
 Hi !
 Today I want to show my neovim configuration on lua
-I use Linux mint on job and Manjaro at home maybe on different distributes or Os will be different
+I use Linux mint on job and Manjaro at home
+
+maybe on different distributes or Os your experience will be a little different
 
 This config is a fork from Purple school channel
 (link on base video in description)
@@ -41,6 +43,7 @@ My features :
 Introduction is finished, let's go to build!
 
 Instructions for installing are in git repository
+You just need clone my 
 
 
 

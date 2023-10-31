@@ -1,4 +1,4 @@
-[[Backend or linux (git for example)]]
+[[Backend or linux or git]]
 
 ```
 gsettings set org.gnome.desktop.input-sources xkb-options "['caps:none']"
