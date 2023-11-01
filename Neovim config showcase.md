@@ -1,5 +1,5 @@
 [[It Thougts]]
-
+# Introduction
 Today, I'm super excited to dive into my personal neovim configuration built with Lua. Just so you know, I'm running this on Linux Mint at work and Manjaro when I'm chilling at home. But depending on your OS or distribution, your mileage might vary just a bit.
 
 My current setup? Well, it's a refined fork from the Purple school channel – shout out to them! (Check the description for the base video link).
@@ -22,6 +22,11 @@ Alright! Enough chit-chat. Let's dive right into the build!
 
 For those eager to replicate this, I've laid down all the installation steps in my git repository. Just clone it into your "nvim" folder, fire up "nvim", and you're all set!
 
+# Mappings
+After start you can see default dashboard with my ASKI art
+and some quick действий
+next we open neotree on space+e
+we can
 
 
 
