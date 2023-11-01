@@ -1,50 +1,26 @@
 [[It Thougts]]
 
-Hi !
-Today I want to show my neovim configuration on lua
-I use Linux mint on job and Manjaro at home
+Today, I'm super excited to dive into my personal neovim configuration built with Lua. Just so you know, I'm running this on Linux Mint at work and Manjaro when I'm chilling at home. But depending on your OS or distribution, your mileage might vary just a bit.
 
-maybe on different distributes or Os your experience will be a little different
+My current setup? Well, it's a refined fork from the Purple school channel – shout out to them! (Check the description for the base video link).
 
-This config is a fork from Purple school channel
-(link on base video in description)
+I remember starting my neovim journey with a configuration from the didjitalize channel. To be frank, it was a tough nut to crack, especially for vim newbies like me – wasn't the smoothest ride.
 
-I start my way of neovim with  other configuration from didjitalize channel 
+Then, I stumbled upon astronvim. Oh boy, it had an impressive build and some killer hotkeys! But here's the deal-breaker – it was sluggish with large files and sometimes failed to highlight the middle of files unless you painstakingly scrolled from the top. And guess what? NvChad had a similar hiccup.
 
-That config was very hard for new users like me and it was a bad experience 
+Working with Vue on Astro was another challenge. Even after setting up the Vue language server, the highlighting and "go to definition" features were MIA. NvChad, though friendlier with Vue, shared the indexing issue with astro.
 
-After I fought the astronvim - Awesome build 
-and Awesome hotkeys
+Now, I've heard good things about Lunar Nvim and I'm itching to try it out. I gave Lunar's build a whirl just for this video. The plus? Super smooth installation without trashing your previous nvim build. The catch? Its settings are a bit intricate, especially if you're coming from astro or nvchad backgrounds.
 
-I was on it about half a year but when I changed my job I fought a problem - big files has a very long time for indexation 
+So, after all these experiments, here I am with my own build. What's special?
 
-or Middle of file don't have a highlights if I was there after starting file and then I should to go start file and go down very slowly
+1. Lightning-fast file indexing.
+2. Intuitive editing – especially if you're transitioning from astrovim.
+3. Beginner-friendly with simple hotkeys.
 
-And The same problem was in Nvchad 
+Alright! Enough chit-chat. Let's dive right into the build!
 
-Also I Cannot with Vue on Astro ( i installed vue language server but i have no highlights and i can't use go definition)
-
-Base NvChad work nice with Vue but also like in astro nvchad had a problem with indexing middle in file 
-
-I want to try Lunar Nvim and i'll do this in future
-And for this video I'm tried  Lunar build just now)
-
-Feature from lunar - Very easy installing ang you don't need remove your last nvim build!
-But Lunar hard in settings, because It's different from astro and nvchad
-
-
-Because I on my own build  until now
-
-My features :
-1. Really fast file indexing 
-2. Easy for editing (Especially for astrovim users)
-3. Easy for new users in vim and easy hotkeys
-
-Introduction is finished, let's go to build!
-
-Instructions for installing are in git repository
-You just need clone my repository in "nvim" folder 
-after just run "nvim"
+For those eager to replicate this, I've laid down all the installation steps in my git repository. Just clone it into your "nvim" folder, fire up "nvim", and you're all set!
 
 
 
