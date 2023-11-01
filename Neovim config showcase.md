@@ -23,10 +23,48 @@ Alright! Enough chit-chat. Let's dive right into the build!
 For those eager to replicate this, I've laid down all the installation steps in my git repository. Just clone it into your "nvim" folder, fire up "nvim", and you're all set!
 
 # Mappings
-After start you can see default dashboard with my ASKI art
-and some quick действий
-next we open neotree on space+e
-we can
+Once you boot up, you'll be greeted with a default dashboard showcasing my ASCII art. Here, you'll also find a few quick actions to get you started.
+
+But let's delve a bit deeper. Want to pull up a neat file tree? Just hit `Space + e` to bring up NeoTree. Navigating? Stick to the classic Vim way with `h`, `j`, `k`, and `l`. To open a file, you have choices! Either go with `w` or `o`.
+
+Alright, let's deep dive into some essential hotkeys!
+
+**Hotkeys Overview:**
+
+1. **NeoTree**:
+    
+    - `Space + 7`: Floating NeoTree with reveal
+    - `Space + e`: Opens NeoTree on the left
+    - `Space + o`: Shows the git status in a floating NeoTree.
+2. **Navigation**:
+    
+    - The control keys combined with `h`, `j`, `k`, and `l` switch between vim windows.
+    - `Space + /`: A quick toggle for commenting out lines.
+3. **Window Splits**:
+    
+    - `|`: Vertical split.
+    - `\`: Horizontal split.
+4. **Others**:
+    
+    - `Space + w`: Save current file.
+    - `Space + c`: Close the current buffer and shift to the one on the right.
+    - `Space + x`: Sort by tabs and close buffers to the right.
+    - `Space + s`: Show current NeoTree state.
+    - `jj` in Insert mode: Quick escape to normal mode.
+    - `Space + h`: Clear search highlights.
+5. **Buffer Navigation**:
+    
+    - `Tab`: Cycles to the next buffer and reveals NeoTree.
+    - `Shift + Tab`: Cycles to the previous buffer and reveals NeoTree.
+    - `Shift + H` and `Shift + L`: Also cycles through buffers and reveals NeoTree.
+6. **Terminal**:
+    
+    - `F7`: Toggles terminal in floating mode.
+    - `Space + th`: Toggles horizontal terminal.
+    - `Space + tv`: Toggles vertical terminal at 40% of the screen size.
+
+These are just the basics to get you started. The beauty of Vim and its configurations like this one is the depth of customization. Feel free to dive into the configuration, tweak it, and make it truly yours.
+
 
 
 
