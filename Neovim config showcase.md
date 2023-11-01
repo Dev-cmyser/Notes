@@ -32,33 +32,26 @@ Alright, let's deep dive into some essential hotkeys!
 **Hotkeys Overview:**
 
 1. **NeoTree**:
-    
-    - `Space + 7`: Floating NeoTree with reveal
     - `Space + e`: Opens NeoTree on the left
     - `Space + o`: Shows the git status in a floating NeoTree.
 2. **Navigation**:
-    
     - The control keys combined with `h`, `j`, `k`, and `l` switch between vim windows.
     - `Space + /`: A quick toggle for commenting out lines.
 3. **Window Splits**:
-    
     - `|`: Vertical split.
     - `\`: Horizontal split.
 4. **Others**:
-    
     - `Space + w`: Save current file.
     - `Space + c`: Close the current buffer and shift to the one on the right.
-    - `Space + x`: Sort by tabs and close buffers to the right.
-    - `Space + s`: Show current NeoTree state.
+    - `Space + x`: Close all buffers but not current
+    - `Space + s`: Show current file place in Tree.
     - `jj` in Insert mode: Quick escape to normal mode.
     - `Space + h`: Clear search highlights.
 5. **Buffer Navigation**:
-    
     - `Tab`: Cycles to the next buffer and reveals NeoTree.
     - `Shift + Tab`: Cycles to the previous buffer and reveals NeoTree.
     - `Shift + H` and `Shift + L`: Also cycles through buffers and reveals NeoTree.
 6. **Terminal**:
-    
     - `F7`: Toggles terminal in floating mode.
     - `Space + th`: Toggles horizontal terminal.
     - `Space + tv`: Toggles vertical terminal at 40% of the screen size.
