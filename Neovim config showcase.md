@@ -53,8 +53,10 @@ Alright, let's deep dive into some essential hotkeys!
     - `Shift + H` and `Shift + L`: Also cycles through buffers and reveals NeoTree.
 6. **Terminal**:
     - `F7`: Toggles terminal in floating mode.
-    - `Space + th`: Toggles horizontal terminal.
-    - `Space + tv`: Toggles vertical terminal at 40% of the screen size.
+7. **Telescope**:
+    - `Space + f + f`: Find file by name (without gitignore)
+    - `Space + f + w`: Find text in files (without gitignore)
+
 
 These are just the basics to get you started. The beauty of Vim and its configurations like this one is the depth of customization. Feel free to dive into the configuration, tweak it, and make it truly yours.
 
