@@ -29,9 +29,9 @@ But let's delve a bit deeper. Want to pull up a neat file tree? Just hit `Space 
 
 Alright, let's deep dive into some essential hotkeys!
 
-**Hotkeys Overview:**
+**Default Hotkeys Overview:**
 
-1. **NeoTree**:
+1. **NeoTree**: 
     - `Space + e`: Opens NeoTree on the left
     - `Space + o`: Shows the git status in a floating NeoTree.
 2. **Navigation**:
@@ -59,6 +59,11 @@ Alright, let's deep dive into some essential hotkeys!
 
 
 These are just the basics to get you started. The beauty of Vim and its configurations like this one is the depth of customization. Feel free to dive into the configuration, tweak it, and make it truly yours.
+
+# Killer feature in nvim
+you can fast moving in screen if you press 's' and start print word - "leap plugin"
+if we want ai helper just use codeium for this - make :Codeium Auth
+
 
 
 
