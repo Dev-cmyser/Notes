@@ -60,10 +60,13 @@ Alright, let's deep dive into some essential hotkeys!
 
 These are just the basics to get you started. The beauty of Vim and its configurations like this one is the depth of customization. Feel free to dive into the configuration, tweak it, and make it truly yours.
 
-# Killer feature in nvim
-you can fast moving in screen if you press 's' and start print word - "leap plugin"
-if we want ai helper just use codeium for this - make :Codeium Auth
+# **Killer Feature in Nvim**:
 
+One of the standout features in Nvim that I absolutely love is the quick navigation capability. Ever found yourself scanning the screen for a word? With the "leap plugin", you don't have to anymore. Just press 's', begin typing the word, and watch the magic unfold as you're instantly taken there. But that's not all. For those of you who like a touch of AI assistance while coding, Nvim's got you covered. By using the Codeium plugin, you get an AI sidekick right within your editor. Just type `:Codeium Auth`, and you're all set to receive smart suggestions and much more.
+
+**End of the Video**:
+
+That brings us to the end of this guide. I genuinely hope you found it enlightening. If you've never considered Nvim before, I urge you to give it a shot. It's not just about the features or the customization, but the significant productivity boost you'll experience. It truly can revolutionize your coding workflow. Until next time, happy coding!
 
 
 
