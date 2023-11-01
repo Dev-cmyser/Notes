@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "can't change the input switching shortcut to alt+shift.md",
+                "file": "Neovim config showcase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "can't change the input switching shortcut to alt+shift.md",
+                "file": "Neovim config showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,8 @@
   },
   "active": "1e0f9dfeeb66b207",
   "lastOpenFiles": [
+    "Neovim config showcase.md",
+    "can't change the input switching shortcut to alt+shift.md",
     "tmux.md",
     "установка nvim.md",
     "Статья как выбрать метод изучения языка.md",
@@ -170,10 +172,8 @@
     "asyncio sleep.md",
     "Работа с сервером.md",
     "задача ВЫВЕСТИ ВСЕ УНИКАЛЬНЫЕ user_id У КОТОРЫХ НЕТ КОШКИ.md",
-    "can't change the input switching shortcut to alt+shift.md",
     "Контакты hr-специалистов.md",
     "Инфотекс Интернет Траст — hr.md",
-    "Neovim config showcase.md",
     "nvim clipboard.md",
     "zsh.md",
     "как работать с обсидиан.md",
