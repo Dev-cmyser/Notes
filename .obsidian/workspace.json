@@ -27,9 +27,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e4b0c42c30134f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +174,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e0f9dfeeb66b207",
+  "active": "0e4b0c42c30134f3",
   "lastOpenFiles": [
     "установка nvim.md",
     "tmux.md",
