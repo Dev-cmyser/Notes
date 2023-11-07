@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e0f9dfeeb66b207",
+            "id": "d79d5fda9478ac81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "can't change the input switching shortcut to alt+shift.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "can't change the input switching shortcut to alt+shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +149,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e0f9dfeeb66b207",
+  "active": "d79d5fda9478ac81",
   "lastOpenFiles": [
-    "Neovim config showcase.md",
+    "browser don't open some site problem hardware acceleration.md",
+    "nvim clipboard.md",
+    "linux.md",
     "can't change the input switching shortcut to alt+shift.md",
+    "Neovim config showcase.md",
     "tmux.md",
     "установка nvim.md",
     "Статья как выбрать метод изучения языка.md",
@@ -174,15 +171,12 @@
     "задача ВЫВЕСТИ ВСЕ УНИКАЛЬНЫЕ user_id У КОТОРЫХ НЕТ КОШКИ.md",
     "Контакты hr-специалистов.md",
     "Инфотекс Интернет Траст — hr.md",
-    "nvim clipboard.md",
     "zsh.md",
     "как работать с обсидиан.md",
     "sql.md",
     "ирисик.md",
     "животные.md",
     "Сны.md",
-    "2023-W27.md",
-    "disable caps lock.md",
     "Files/Pasted image 20231017100523.png",
     "Files/Pasted image 20231007214814.png",
     "Files/Pasted image 20230908143909.png",
