@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim config showcase.md",
+                "file": "can't change the input switching shortcut to alt+shift.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neovim config showcase.md",
+                "file": "can't change the input switching shortcut to alt+shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,12 +157,12 @@
   },
   "active": "d79d5fda9478ac81",
   "lastOpenFiles": [
+    "Neovim config showcase.md",
     "It Thougts.md",
     "can't change the input switching shortcut to alt+shift.md",
     "browser don't open some site problem hardware acceleration.md",
     "nvim clipboard.md",
     "linux.md",
-    "Neovim config showcase.md",
     "tmux.md",
     "установка nvim.md",
     "Статья как выбрать метод изучения языка.md",
