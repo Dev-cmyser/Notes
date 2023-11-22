@@ -46,18 +46,6 @@ vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
 vim.opt.smartindent = true
 
--- Fillchars settings
-vim.opt.fillchars = {
-    vert = "│",
-    fold = "⠀",
-    eob = " ", -- suppress ~ at EndOfBuffer
-    -- diff = "⣿", -- alternatives = ⣿ ░ ─ ╱
-    msgsep = "‾",
-    foldopen = "▾",
-    foldsep = "│",
-    foldclose = "▸",
-}
-
 -- Clearing highlights
 vim.cmd([[highlight clear LineNr]])
 vim.cmd([[highlight clear SignColumn]])
@@ -77,32 +65,11 @@ vim.keymap.set("n", "<c-l>", ":wincmd l<CR>")
 vim.keymap.set("n", "<leader>/", ":CommentToggle<CR>")
 vim.keymap.set("v", "<leader>/", ":CommentToggle<CR>")
 
--- Splits
-vim.keymap.set("n", "|", ":vsplit<CR>")
-vim.keymap.set("n", "\\", ":split<CR>")
-
 -- Other
 vim.keymap.set("n", "<s-J>", "")
 vim.keymap.set("v", "<s-J>", "")
 vim.keymap.set("n", "<leader>w", ":w<CR>")
 
--- Folding levels
-vim.keymap.set("n", "<leader>1", ":set foldlevel=1<CR>")
-vim.keymap.set("n", "<leader>2", ":set foldlevel=2<CR>")
-vim.keymap.set("n", "<leader>3", ":set foldlevel=3<CR>")
-vim.keymap.set("n", "<leader>4", ":set foldlevel=4<CR>")
-vim.keymap.set("n", "<leader>5", ":set foldlevel=5<CR>")
-vim.keymap.set("n", "<leader>6", ":set foldlevel=6<CR>")
-vim.keymap.set("n", "<leader>7", ":set foldlevel=7<CR>")
-vim.keymap.set("n", "<leader>8", ":set foldlevel=8<CR>")
-
--- Delete buffer
-vim.api.nvim_set_keymap("n", "<leader>c", ":lua _G.close_and_go_right()<CR>", { noremap = true, silent = true })
-vim.keymap.set("n", "<leader>x", ":BufferLineSortByTabs<CR>:BufferLineCloseRight<CR>")
-vim.keymap.set("n", "<leader>X", ":BufferLinePickClose<CR>")
-
--- Show file in tree
-vim.keymap.set("n", "<leader>s", ":Neotree show reveal <CR>")
 
 vim.keymap.set("i", "jj", "<Esc>")
 vim.keymap.set("i", "j<leader>", "<Esc>")
