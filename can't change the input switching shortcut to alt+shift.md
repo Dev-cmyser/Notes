@@ -1,4 +1,4 @@
-[[linux]]
+O[[linux]]
 
 
 1. Set forward switch to Shift+Alt(left)
