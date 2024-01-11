@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3de177713677bc9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +141,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -155,7 +168,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d79d5fda9478ac81",
+  "active": "3de177713677bc9a",
   "lastOpenFiles": [
     "Files/Pasted image 20230810121329.png",
     "git quick start and add repository.md",
