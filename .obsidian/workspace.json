@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "01c334ac22b979ee",
+            "id": "fb3ea22a1af7bcdd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "удалить локальные ветки.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "увеличить диск root.md",
+                "file": "удалить локальные ветки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,8 +171,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01c334ac22b979ee",
+  "active": "fb3ea22a1af7bcdd",
   "lastOpenFiles": [
+    "увеличить диск root.md",
     "git quick start and add repository.md",
     "удалить локальные ветки.md",
     "conflict-files-obsidian-git.md",
@@ -199,7 +203,6 @@
     "Работа с сервером.md",
     "задача ВЫВЕСТИ ВСЕ УНИКАЛЬНЫЕ user_id У КОТОРЫХ НЕТ КОШКИ.md",
     "Контакты hr-специалистов.md",
-    "Инфотекс Интернет Траст — hr.md",
     "Files/Pasted image 20231017100523.png",
     "Files/Pasted image 20231007214814.png",
     "Files/Pasted image 20230908143909.png",
